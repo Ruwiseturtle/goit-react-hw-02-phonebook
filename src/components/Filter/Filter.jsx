@@ -1,5 +1,5 @@
 import { Component } from 'react';
-import css from './Filter.css';
+import './Filter.css';
 
 class Filter extends Component {
   selectByValues = (e) => {

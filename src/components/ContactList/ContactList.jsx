@@ -1,5 +1,5 @@
 import { Component } from 'react';
-import css from './ContactList.css';
+import './ContactList.css';
 
 class ContactList extends Component {
   
